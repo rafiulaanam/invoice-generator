@@ -9,7 +9,7 @@ const nextConfig = {
             use: "ignore-loader",
         });
         return config;
-    },
+    },  
 };
 
 // Bundle analyzer
